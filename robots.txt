@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wisdomteeth.ssonydental.com/sitemap.xml
